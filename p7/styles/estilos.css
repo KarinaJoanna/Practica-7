@@ -8,17 +8,17 @@ body{
   background-color: white;
   position: absolute;
   left: 180px;
-  padding: 30px 90px 70px 30px;
+  padding: 10px 70px 50px 10px;
 }
 
 h1{
   font-family: 'Six Caps', sans-serif;
-  font-size: 90px;
+  font-size: 50px;
 }
 
 .container1 p{
   font-family: "Gill Sans", sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   font-weight:600;
   line-height: 25px;
 }
@@ -26,22 +26,22 @@ h1{
 .container2{
   position: absolute;
   left: 180px;
-  top: 20em;
-  width: 50em;
+  top: 15em;
+  width: 30em;
 }
 
 .container2 h2{
   background: rgba(255, 255, 255, 0.7);
   padding: 1em;
   font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .container2 h3{
   background: rgba(255, 255, 255, 0.3);
   padding: 0.5em;
   font-family: "Times New Roman";
-  font-size: 40px
+  font-size: 20px
 }
 
 .container3 {
@@ -51,14 +51,14 @@ h1{
 
 .container4{
   color: white;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
   background: rgba(0, 0, 0, 0.4);
   padding: 1em;
 }
 
 .container5{
-  font-size: 25px;
+  font-size: 15px;
   background: rgba(255, 255, 255, 0.9);
   padding: 1.8em;
 }
