@@ -11,7 +11,7 @@ Este proyecto se basa en el ejemplo de la tienda de arte la práctica 4 (ejercic
 
 ### Prerequisites
 
-Estas son algunos de los programas que se utilizaron y sus extensiones.
+Estos son algunos de los programas que se utilizaron y sus extensiones.
 
 * Visual Studio Code
   ```sh
